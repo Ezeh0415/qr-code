@@ -30,8 +30,11 @@ p{
     text-align:center;
     font-size: small;
 }
+.l{
+    text-align: center;
+}
 @media all and (max-width:767px) {
     .contaner{
-        margin-left:10%;
+        margin-left:22%;
     }
 }
